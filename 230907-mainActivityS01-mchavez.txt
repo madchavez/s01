@@ -1,1 +1,2 @@
 Hi, My name is Miguel Antonio D. Chavez.
+I'm in my 4th year of my computer science degree. Between July and September of this year, I've rendered 300 of 350 required hours of my web development internship. There, I learned some full stack development with the XAMPP tech stack. I study in the Computer Science course of De La Salle Dasmariñas.
